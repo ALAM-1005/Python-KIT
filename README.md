@@ -1,4 +1,3 @@
-# Python-KIT
 # Python Kit ⚙️
 
 > A curated collection of essential resources, libraries, tools, courses, and playbooks to help you master Python, from writing your first script to building production-grade systems.
